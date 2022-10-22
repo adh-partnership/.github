@@ -4,7 +4,7 @@ The Anchorage, Denver and Honolulu Partnership is a group of [VATUSA](https://ww
 
 ## Container Images
 
-Container images are pushed to Docker Hub.  As images begin to be deployed, they will be signed.
+Container images are pushed to [Docker Hub](https://hub.docker.com/u/adhp).  As images begin to be deployed, they will be signed.
 
 Signature verification can be performed via:
 
