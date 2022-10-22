@@ -17,6 +17,6 @@ For more information, see the [Cosign Documentation](https://docs.sigstore.dev/c
 Images currently signed:
 - [x] adhp/api:dev
 - [ ] adhp/api:main
-- [ ] adhp/auth:main
+- [x] adhp/auth:main
 - [ ] adhp/frontend:dev
 - [ ] adhp/frontend:main
