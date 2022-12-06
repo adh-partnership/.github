@@ -14,9 +14,10 @@ Signature verification can be performed via:
 
 For more information, see the [Cosign Documentation](https://docs.sigstore.dev/cosign).
 
-Images currently signed:
+Branches generating signed images (image tags will be [main/dev]-[commit hash]):
 - [x] adhp/api:dev
 - [x] adhp/api:main
 - [x] adhp/auth:main
 - [x] adhp/frontend:dev
-- [ ] adhp/frontend:main
+- [x] adhp/frontend:main
+- [ ] adhp/discord:[zdv/zan/hcf]
