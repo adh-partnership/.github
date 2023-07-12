@@ -12,7 +12,7 @@ Signature verification can be performed via:
 > cosign verify --key https://raw.githubusercontent.com/adh-partnership/.github/main/cosign.pub (image):(tag)
 ```
 
-For more information, see the [Cosign Documentation](https://docs.sigstore.dev/cosign).
+For more information, see the [Cosign Documentation](https://docs.sigstore.dev/cosign/overview).
 
 Branches generating signed images (image tags will be [main/dev]-[commit hash]):
 - [x] adhp/api:dev
